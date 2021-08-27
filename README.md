@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Miriamgh23
 - 👀 I’m interested in head hunting Tech experts
 - 💞️ I’m looking to have a conversation with you and see what I can offer 
-- 📫 How to reach me: on my email meryam.ghostine@lodgify.com
+- 📫 How to reach me: meryam.ghostine@lodgify.com
 
 <!---
 Miriamgh23/Miriamgh23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
